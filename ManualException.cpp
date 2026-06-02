@@ -21,4 +21,4 @@ int main()
         cout << "default pengecualian dieksekusi" << endl;
     }
     return 0;
-}
+} 
